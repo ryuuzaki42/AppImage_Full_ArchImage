@@ -10,6 +10,9 @@ https://github.com/ryuuzaki42/AppImage_Full_ArchImage/tree/main/recipes
 ### Check the releases:
 https://github.com/ryuuzaki42/AppImage_Full_ArchImage/releases
 
+## Using ArchAppImage
+https://github.com/LinuxProativo/ArchAppImage
+
 ## Using ArchImage
 https://github.com/ivan-hc/ArchImage
 
@@ -35,4 +38,4 @@ ls *AppImage*
 ```
 
 ---
-Up 22/10/2026 - 02
+Up 24/10/2026 - 01
