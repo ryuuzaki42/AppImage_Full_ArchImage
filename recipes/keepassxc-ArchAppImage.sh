@@ -74,8 +74,7 @@ lib_saved=    # optional - "lib1 lib2.so prefixlib"
 
 remove_others_share_bloatwares=  # optional - "dir1|dir2|dir3"
 #remove_others_libs_bloatwares=   # optional - "dir1|dir2|lib1"
-#rm -R -f ./"$APP".AppDir/.junest/usr/lib/libLLVM* # included in the compilation phase, can sometimes be excluded for daily use
-remove_others_libs_bloatwares="libLLVM.so"
+remove_others_libs_bloatwares="libgallium|libLLVM"
 
 remove_others_bins_bloatwares=   # optional - "bin1|bin2|bin3"
 remove_others_etc_bloatwares=    # optional - "dir1|dir2|file"
