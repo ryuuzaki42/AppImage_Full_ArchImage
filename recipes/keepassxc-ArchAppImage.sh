@@ -24,7 +24,7 @@
 CWD="$PWD"
 set -e
 
-package_name=qbittorrent
+package_name=keepassxc
 parms=  # optional
 
 binary_name=   # optional
