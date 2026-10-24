@@ -5,7 +5,8 @@
 # NAME OF THE APP BY REPLACING "SAMPLE"
 APP=xournalpp
 BIN="$APP" #CHANGE THIS IF THE NAME OF THE BINARY IS DIFFERENT FROM "$APP" (for example, the binary of "obs-studio" is "obs")
-DEPENDENCES="ca-certificates binutils gtk3 adwaita adwaita-icon-theme adwaita-icon-theme-legacy fcitx lua graphviz portaudio gdk-pixbuf2 glycin"
+#DEPENDENCES="ca-certificates binutils gtk3 adwaita adwaita-icon-theme adwaita-icon-theme-legacy fcitx lua graphviz portaudio gdk-pixbuf2 glycin"
+DEPENDENCES="adwaita adwaita-icon-theme glycin"
 #BASICSTUFF="binutils debugedit gzip"
 #COMPILERS="base-devel"
 
